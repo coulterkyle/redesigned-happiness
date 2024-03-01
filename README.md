@@ -9,11 +9,11 @@ In this project, I refactored an e-commerce platform from an activity we perform
 
 From the Redux website:
 
-```
+`
 Redux helps you write applications that behave consistently, run in different environments, and are easy to test.
 
 Redux helps you deal with shared state management, but like any tool, it has tradeoffs. It's not designed to be the shortest or fastest way to write code. It's intended to help answer the question "When did a certain slice of state change, and where did the data come from?", with predictable behavior. There are more concepts to learn, and more code to write. It also adds some indirection to your code, and asks you to follow certain restrictions. It's a trade-off between short term and long term productivity.
-```
+`
 
 ## Table of Contents
 
